@@ -173,7 +173,7 @@ android_app_import {
 dex_import {
 	name: "WfdCommon",
 	owner: "oneplus",
-	jars: ["proprietary/framework/WfdCommon.jar"],
+	jars: ["proprietary/system/framework/WfdCommon.jar"],
 }
 
 prebuilt_etc_xml {
